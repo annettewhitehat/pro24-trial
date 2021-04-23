@@ -1,1 +1,2 @@
-# pro24-trial
+# Geologist
+Geologist Project
